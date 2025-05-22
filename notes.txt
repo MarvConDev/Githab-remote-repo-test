@@ -5,3 +5,4 @@ Mein Test
 git reset --soft HEAD~1
 git reset --hard HEAD~1
 git revert commitID
+git clone GitHub-URL . (punkt für alles in den ordner)
