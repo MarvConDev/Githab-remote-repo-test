@@ -3,4 +3,3 @@ git add <file>
 git commit -m "beschreibung der änderung"
 Mein Test
 git reset --soft HEAD~1
-git reset --hart HEAD~1
